@@ -1,3 +1,8 @@
+# Contributed Class: Sum_er
+* Sum_er can return the total of all numbers from 1 to n, n being positive or negative.
+* Included simple tests (negative, positive, n = 1)
+* demo included in Main.main
+
 # ZCW-MicroLabs-JavaFundamentals-SumOfInput
 
 # Sum of the Numbers
